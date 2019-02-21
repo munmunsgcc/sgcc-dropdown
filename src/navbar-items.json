@@ -1,0 +1,52 @@
+[
+  {
+    "dropdownText": "Schedule",
+    "dropdownLink": "https://google.com"
+  },
+  {
+    "dropdownText": "Courses",
+    "dropdownLink": "https://google.com"
+  },
+  {
+    "dropdownText": "Why Us",
+    "subItems": [
+      {
+        "subText": "Philosophy",
+        "subLink": "https://google.com"
+      },
+      {
+        "subText": "Teams & Partners",
+        "subLink": "https://google.com"
+      },
+      {
+        "subText": "Students",
+        "subLink": "https://google.com"
+      }
+    ]
+  },
+  {
+    "dropdownText": "Learn More",
+    "subItems": [
+      {
+        "subText": "Events",
+        "subLink": "https://google.com"
+      },
+      {
+        "subText": "Policies & Promotions",
+        "subLink": "https://google.com"
+      },
+      {
+        "subText": "FAQ",
+        "subLink": "https://google.com"
+      },
+      {
+        "subText": "Contact Us",
+        "subLink": "https://google.com"
+      },
+      {
+        "subText": "Blog",
+        "subLink": "https://google.com"
+      }
+    ]
+  }
+]
